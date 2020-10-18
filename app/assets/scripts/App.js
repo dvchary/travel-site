@@ -1,0 +1,1 @@
+alert('The Sky is Blue and no more white');
